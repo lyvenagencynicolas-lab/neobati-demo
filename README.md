@@ -1,3 +1,16 @@
+> **Ce dépôt contient la documentation technique complète d'un système
+> d'automatisation Airtable + Make + IA, conçu de bout en bout pour une
+> entreprise fictive du secteur du bâtiment.**
+>
+> 23 automatisations planifiées, 14 construites, 9 abandonnées après
+> analyse — chaque décision et chaque abandon est documenté avec son
+> raisonnement.
+>
+> Contexte, architecture et décisions principales, en version lisible :
+> [lyven.io/documentation-neobati](https://lyven.io/documentation-neobati.html)
+>
+> Nicolas Gamard — [lyven.io](https://lyven.io)
+
 > ## Utilisation de cette documentation
 >
 > Cette documentation constitue la référence officielle du projet NeoBati.
